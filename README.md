@@ -1,7 +1,7 @@
 
 # Identity Chain: Decentralised Identity Verification System
 
-## Project Vision
+## Reeasoning Behind the Project
 This project was started with the idea to tackle the issues of identity verification in the digital world. In a world where digital interactions are increasingly fraught with privacy concerns and security breaches, I propose a departure from centralised systems. My mission was to redefine identity verification through a framework that is inherently secure, decentralised, and privacy-respecting.
 
 ## Concept
